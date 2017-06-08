@@ -2,4 +2,5 @@
 this is the frist git test
 this is the second git test
 this is the thread git test
-creating a new branch is quick & simple
+Creating a new branch is quick And simple
+
